@@ -1,4 +1,4 @@
-# myapp
+# trilha_app
 
 A new Flutter project.
 
